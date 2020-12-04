@@ -48,7 +48,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_1,
-		'src': './images/layer_3_1.png',
+		'src': './layer_3_1.png',
 		'z_index': -0.75,
 		'position': {x: 0, y: 0},
 		'blend':  null,
@@ -56,7 +56,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_2,
-		'src': './images/layer_4_1.png',
+		'src': './layer_4_1.png',
 		'z_index': -0.5,
 		'position': {x: 0, y: 0},
 		'blend':  null,
@@ -64,7 +64,7 @@ var layer_list = [
 	},
 	{
 		'image': shadows,
-		'src': './images/layer_5_1.png',
+		'src': './layer_5_1.png',
 		'z_index': -1.25,
 		'position': {x: 0, y: 0},
 		'blend':  null,
@@ -72,7 +72,7 @@ var layer_list = [
 	},
 	{
 		'image': mask,
-		'src': './images/layer_6_1.png',
+		'src': './layer_6_1.png',
 		'z_index': 0,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -80,7 +80,7 @@ var layer_list = [
 	},
 	{
 		'image': humans,
-		'src': './images/layer_7_1.png',
+		'src': './layer_7_1.png',
 		'z_index': 0.8,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -88,7 +88,7 @@ var layer_list = [
 	},
 	{
 		'image': floaties_3,
-		'src': './images/layer_8_1.png',
+		'src': './layer_8_1.png',
 		'z_index': 2,
 		'position': {x: 0, y: 0},
 		'blend': null,
