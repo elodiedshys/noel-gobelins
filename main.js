@@ -32,7 +32,7 @@ var floaties_3 = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': './images/layer_1_1.png',
+		'src': './layer_1_1.png',
 		'z_index': -2,
 		'position': {x: 0, y: 0},
 		'blend': null,
@@ -40,7 +40,7 @@ var layer_list = [
 	},
 	{
 		'image': clouds,
-		'src': './images/layer_2_1.png',
+		'src': './layer_2_1.png',
 		'z_index': -1,
 		'position': {x: 0, y: 0},
 		'blend': null,
