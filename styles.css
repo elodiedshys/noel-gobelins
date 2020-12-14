@@ -1,13 +1,21 @@
 html,
 body {
 	box-sizing: border-box;
+	font-family: 'Work Sans', sans-serif;
+	display: flex;
 	margin: 0;
 	height: 100%;
 	background: white;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-family: sans-serif;
+}
+
+p {
+    text-align: center;
+    line-height: 2.5;
+    width: 40vw;
+    padding: 20px;
 }
 
 .image-container {
